@@ -4,4 +4,4 @@
 
 Here is the [report](金融大数据实验报告.docx)
 
-**My contribitions of code are data crawling (using Octoparse, a web scraping tool) and [modeling](标题分析.ipynb)**
+**My contribitions of code are data crawling (using Octoparse, a web scraping tool) and [data analytics and mining](标题分析.ipynb)**
