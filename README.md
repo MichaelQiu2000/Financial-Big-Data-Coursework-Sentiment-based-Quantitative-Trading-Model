@@ -7,4 +7,4 @@ Here is the [report](金融大数据实验报告.docx)
 **All code was done by myself.**
 
 * First step: Data Crawling (using Octoparse, a web scraping tool). 
-* Second step: [Data Analytics and Mining](标题分析.ipynb)**
+* Second step: [Data Analytics and Mining](标题分析.ipynb)
