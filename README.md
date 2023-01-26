@@ -1,6 +1,6 @@
 # Financial-Big-Data-Coursework-Sentiment-based-Quantitative-Trading-Model
 
-### This project built a sentiment-based quantitative trading model by employing various features and crawler tools
+### This project builds a sentiment-based quantitative trading model by employing various features and crawler tools
 
 Here is the [report](金融大数据实验报告.docx)
 
